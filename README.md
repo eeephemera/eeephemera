@@ -46,7 +46,7 @@
 
 ---
 
-### 🧮 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eeephemera&show_icons=true&theme=radical&include_all_commits=true" height="200" />
@@ -63,20 +63,21 @@
 
 ---
 
-### 🐍 GitHub Snake (My Contributions)
+### ✨ GitHub Metrics (Animated)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eeephemera/eeephemera/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/eeephemera/eeephemera/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
 </div>
 
 ---
 
-### 📬 Let's Connect
+### 📌 Pinned Projects
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeephemera&repo=zvk-requests&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeephemera&repo=bruh_uchet_bot&theme=radical" />
 </div>
 
-📫 Email: [magomedov_zak_05@mail.ru](mailto:magomedov_zak_05@mail.ru)
+---
+
+<div align="left"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" /> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram" /> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter" /> </div>
