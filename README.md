@@ -53,21 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeephemera&layout=compact&langs_count=6&theme=radical" height="200" />
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eeephemera&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-### ✨ GitHub Metrics (Animated)
-
-<div align="center">
-  <img src="https://github.com/eeephemera/eeephemera/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
-</div>
 
 ---
 
@@ -75,7 +60,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeephemera&repo=zvk-requests&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeephemera&repo=bruh_uchet_bot&theme=radical" />
+  
 </div>
 
 ---
