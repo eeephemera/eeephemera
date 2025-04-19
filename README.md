@@ -1,7 +1,11 @@
-![banner (1)](https://github.com/user-attachments/assets/60872296-de82-4f40-8b63-37b7e8343350)
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/60872296-de82-4f40-8b63-37b7e8343350" alt="Header Banner" width="100%" />
+</div>
 
+<h2 align="left">Hi 👋! My name is Zakir</h2>
 
-<img align="right" height="100" src="https://media1.tenor.com/m/zxSnNNjUGsgAAAAd/aesthetic.gif"  />
+<img align="right" height="100" src="https://media1.tenor.com/m/zxSnNNjUGsgAAAAd/aesthetic.gif" />
 
 ---
 
@@ -36,7 +40,7 @@
   - Proof-of-Learning consensus  
   - Built with Solidity + web3 tools  
 
-- 🤖 **Bruh_Uchet_Bot** — Telegram finance Bot 
+- 🤖 **Bruh_Uchet_Bot** — Telegram finance Bot  
   - Built with Python + Postgres  
   - Tracks expenses, sends analytics, and helps budgeting  
 
@@ -47,6 +51,22 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eeephemera&show_icons=true&theme=radical&include_all_commits=true" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeephemera&layout=compact&langs_count=6&theme=radical" height="200" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eeephemera&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### 🐍 GitHub Snake (My Contributions)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eeephemera/eeephemera/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
 ---
