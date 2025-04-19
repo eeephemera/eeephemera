@@ -1,9 +1,8 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/60872296-de82-4f40-8b63-37b7e8343350" alt="Header Banner" width="100%" />
+  <h2 align="left">Hi 👋! My name is Zakir</h2>
 </div>
 
-<h2 align="left">Hi 👋! My name is Zakir</h2>
 
 <img align="right" height="100" src="https://media1.tenor.com/m/zxSnNNjUGsgAAAAd/aesthetic.gif" />
 
@@ -59,8 +58,8 @@
 ### 📌 Pinned Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeephemera&repo=zvk-requests&theme=radical" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeephemera&repo=zvk-requests&theme=radical](https://github.com/eeephemera/zvk-requests" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeephemera&repo=zvk-requests&theme=radical](https://github.com/eeephemera/zvk-requests](https://github.com/eeephemera/uchenie" />
 </div>
 
 ---
