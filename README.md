@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Zakir</h2>
+![banner (1)](https://github.com/user-attachments/assets/60872296-de82-4f40-8b63-37b7e8343350)
+
 
 <img align="right" height="100" src="https://media1.tenor.com/m/zxSnNNjUGsgAAAAd/aesthetic.gif"  />
 
@@ -32,12 +33,11 @@
   - Microservice architecture  
 
 - 🎓 **Uchenie** — Blockchain-powered educational platform  
-  - ERC-20 token rewards for learning  
-  - NFT badges + Proof-of-Learning consensus  
+  - Proof-of-Learning consensus  
   - Built with Solidity + web3 tools  
 
-- 🤖 **Bruh_Uchet_Bot** — Telegram finance assistant  
-  - Built with Python + SQLite/Postgres  
+- 🤖 **Bruh_Uchet_Bot** — Telegram finance Bot 
+  - Built with Python + Postgres  
   - Tracks expenses, sends analytics, and helps budgeting  
 
 ---
