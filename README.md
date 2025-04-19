@@ -52,16 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeephemera&layout=compact&langs_count=6&theme=radical" height="200" />
 </div>
 
-
----
-
-### 📌 Pinned Projects
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeephemera&repo=zvk-requests&theme=radical](https://github.com/eeephemera/zvk-requests" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeephemera&repo=zvk-requests&theme=radical](https://github.com/eeephemera/zvk-requests](https://github.com/eeephemera/uchenie" />
-</div>
-
 ---
 
 <div align="left"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" /> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram" /> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter" /> </div>
