@@ -42,6 +42,15 @@
 
 ---
 
+### 🧮 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eeephemera&show_icons=true&theme=radical&include_all_commits=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeephemera&layout=compact&langs_count=6&theme=radical" height="200" />
+</div>
+
+---
+
 ### 📬 Let's Connect
 
 <div align="left">
@@ -51,11 +60,3 @@
 </div>
 
 📫 Email: [magomedov_zak_05@mail.ru](mailto:magomedov_zak_05@mail.ru)
-
----
-
-### 🐍 GitHub Snake (My Contributions)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eeephemera/eeephemera/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
